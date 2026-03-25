@@ -15,7 +15,6 @@ android_app_import {
     // set to optional we can use the following flag to ignore the build error.
     optional_uses_libs: [
         "androidx.window.extensions",
-        "androidx.window.sidecar",
-        "com.android.oem.tokens",
+        "androidx.window.sidecar"
     ]
 }
